@@ -33,7 +33,4 @@
     "socket.io": "^4.6.1",
     "winston": "^3.17.0"
   }
-},
-{
-  "type:module"
 }
